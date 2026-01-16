@@ -1,31 +1,4 @@
 # ReactBridge
-
-[![Swift 6.2, 6.1, 6.0](https://img.shields.io/badge/Swift-6.2%20|%206.1%20|%206.0-f48041.svg?style=flat&logo=swift)](https://developer.apple.com/swift)
-![Platforms: iOS, macOS, tvOS, visionOS, watchOS](https://img.shields.io/badge/Platforms-iOS%20|%20macOS%20|%20tvOS%20|%20visionOS%20|%20watchOS%20-blue.svg?style=flat&logo=apple)
-[![Swift Package Manager: compatible](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-4BC51D.svg?style=flat&logo=apple)](https://swift.org/package-manager/)
-[![React Native: 0.60](https://img.shields.io/badge/React%20Native-0.60-61dafb.svg?style=flat&logo=react)](https://reactnative.dev/)
-[![Build](https://github.com/ikhvorost/ReactBridge/actions/workflows/swift.yml/badge.svg)](https://github.com/ikhvorost/ReactBridge/actions/workflows/swift.yml)
-[![codecov](https://codecov.io/gh/ikhvorost/ReactBridge/graph/badge.svg?token=0MNGNA5W90)](https://codecov.io/gh/ikhvorost/ReactBridge)
-[![Swift Doc Coverage](https://img.shields.io/badge/Swift%20Doc%20Coverage-100%25-f39f37?logo=google-docs&logoColor=white)](https://github.com/ikhvorost/swift-doc-coverage)
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/donate/?hosted_button_id=TSPDD3ZAAH24C)
-
-`ReactBridge` provides Swift macros for React Native to expose Native Modules and UI Components to JavaScript.
-
-- [Getting Started](#getting-started)
-  - [Native Module](#native-module)
-  - [Native UI Component](#native-ui-component)
-- [Documentation](#documentation)
-  - [`@ReactModule`](#reactmodule)
-  - [`@ReactMethod`](#reactmethod)
-  - [`@ReactView`](#reactview)
-  - [`@ReactProperty`](#reactproperty)
-- [Requirements](#requirements)
-- [Installation](#installation)
-  - [XCode](#xcode)
-  - [Swift Package](#swift-package)
-- [Licensing](#licensing)
-
 ## Getting Started
 
 ### Native Module
@@ -456,5 +429,3 @@ let package = Package(
 ## Licensing
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/donate/?hosted_button_id=TSPDD3ZAAH24C)
